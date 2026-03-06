@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "POST HUMAN",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-06T17:51:18.089455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Post Human Empire",
+      "artist": "Immunity",
+      "has_synced": true,
+      "path": "select/01_Post_Human_Empire_Immunity.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Another Post Human Dream",
+      "artist": "Failure",
+      "has_synced": true,
+      "path": "select/02_Another_Post_Human_Dream_Failure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Post-Human Archetype",
+      "artist": "The Stranded",
+      "has_synced": true,
+      "path": "select/03_Post-Human_Archetype_The_Stranded.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "POST HUMAN",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_POST_HUMAN_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "POST HUMAN",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/05_POST_HUMAN_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "POST HUMAN",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_POST_HUMAN_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Post-Human Revolution",
+      "artist": "Chibiitaii",
+      "has_synced": true,
+      "path": "select/07_Post-Human_Revolution_Chibiitaii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Post Human Blossom",
+      "artist": "AUA",
+      "has_synced": true,
+      "path": "select/08_Post_Human_Blossom_AUA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Post Human",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/09_Post_Human_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POST HUMAN",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_POST_HUMAN_米津玄師.txt"
+    }
+  ]
+}
